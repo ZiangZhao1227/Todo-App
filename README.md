@@ -1,2 +1,4 @@
 # Todo-App
-A simple event logging application developed in Kotlin language based on Android Studio platform, users can freely log events and delete those completed events.
+The user can check and uncheck the events and click Delete to eliminate the completed events.
+![屏幕截图 2021-08-01 171606](https://user-images.githubusercontent.com/56063269/127774263-e1257127-c93a-41ad-acd9-a2e4f109c3e4.png)
+
